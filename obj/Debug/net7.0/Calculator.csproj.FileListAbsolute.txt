@@ -1,0 +1,15 @@
+G:\2023\CEPAT\BENS MÓVEIS\COPAT - 2021\Patrício\Pessoal\Estudo Programação\Calculator\bin\Debug\net7.0\Calculator.exe
+G:\2023\CEPAT\BENS MÓVEIS\COPAT - 2021\Patrício\Pessoal\Estudo Programação\Calculator\bin\Debug\net7.0\Calculator.deps.json
+G:\2023\CEPAT\BENS MÓVEIS\COPAT - 2021\Patrício\Pessoal\Estudo Programação\Calculator\bin\Debug\net7.0\Calculator.runtimeconfig.json
+G:\2023\CEPAT\BENS MÓVEIS\COPAT - 2021\Patrício\Pessoal\Estudo Programação\Calculator\bin\Debug\net7.0\Calculator.dll
+G:\2023\CEPAT\BENS MÓVEIS\COPAT - 2021\Patrício\Pessoal\Estudo Programação\Calculator\bin\Debug\net7.0\Calculator.pdb
+G:\2023\CEPAT\BENS MÓVEIS\COPAT - 2021\Patrício\Pessoal\Estudo Programação\Calculator\obj\Debug\net7.0\Calculator.csproj.AssemblyReference.cache
+G:\2023\CEPAT\BENS MÓVEIS\COPAT - 2021\Patrício\Pessoal\Estudo Programação\Calculator\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+G:\2023\CEPAT\BENS MÓVEIS\COPAT - 2021\Patrício\Pessoal\Estudo Programação\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
+G:\2023\CEPAT\BENS MÓVEIS\COPAT - 2021\Patrício\Pessoal\Estudo Programação\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
+G:\2023\CEPAT\BENS MÓVEIS\COPAT - 2021\Patrício\Pessoal\Estudo Programação\Calculator\obj\Debug\net7.0\Calculator.csproj.CoreCompileInputs.cache
+G:\2023\CEPAT\BENS MÓVEIS\COPAT - 2021\Patrício\Pessoal\Estudo Programação\Calculator\obj\Debug\net7.0\Calculator.dll
+G:\2023\CEPAT\BENS MÓVEIS\COPAT - 2021\Patrício\Pessoal\Estudo Programação\Calculator\obj\Debug\net7.0\refint\Calculator.dll
+G:\2023\CEPAT\BENS MÓVEIS\COPAT - 2021\Patrício\Pessoal\Estudo Programação\Calculator\obj\Debug\net7.0\Calculator.pdb
+G:\2023\CEPAT\BENS MÓVEIS\COPAT - 2021\Patrício\Pessoal\Estudo Programação\Calculator\obj\Debug\net7.0\Calculator.genruntimeconfig.cache
+G:\2023\CEPAT\BENS MÓVEIS\COPAT - 2021\Patrício\Pessoal\Estudo Programação\Calculator\obj\Debug\net7.0\ref\Calculator.dll
